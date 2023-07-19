@@ -7,4 +7,6 @@
 It is a quite complex Arduino-based system that produces stats about state of houseplant.
 </br>
 :exclamation::exclamation::exclamation:You cand find examples of visual work in this repository
-Stats is initialized with lcd and include info about:  
+Stats is initialized with lcd and include info about: 
+</br>
+humidity, soil humidity, minimal humidity, minimal soil humidity, buzzer state and alarm delay.
