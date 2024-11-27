@@ -1,11 +1,17 @@
-# :seedling:Houseplants control system
-- :desktop_computer:Consists of Arduino board, humidity-related sensors, LCD, and additional elements
-- :earth_africa:Was created as a solution to real world problems
-- :dollar:The low price of inner system components
-# :page_facing_up:Desciption
-It is a quite complex Arduino-based system that produces stats about the state of the houseplant.
-</br>
-:exclamation::exclamation::exclamation: You can find examples of visual work in this repository
+# Houseplants control system
+- Consists of Arduino board, humidity-related sensors, LCD, and additional elements.
+- It was created as a solution to real world problems.
+- The low price of inner system components.
+  
+### Desciption
+It is the Arduino-based system that produces stats about the state of the houseplant.
+<br>
+You can find examples of visual work in this repository.<br>
+
 Stats is initialized with LCD and include info about: 
-</br>
-humidity, soil humidity, minimal humidity, minimal soil humidity, buzzer state, and alarm delay.
+* Humidity
+* Soil humidity
+* Minimal humidity
+* Minimal soil humidity
+* Buzzer state
+* Alarm delay
